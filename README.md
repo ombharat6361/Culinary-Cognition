@@ -34,5 +34,5 @@ To use the trained food detection model, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/food-detection.git
-   cd food-detection
+   git clone https://github.com/ombharat6361/Culinary-Cognition.git
+   cd Culinary-Cognition
