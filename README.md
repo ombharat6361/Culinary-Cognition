@@ -1,8 +1,7 @@
 # Culinary-Cognition
-![Food Detection Example](food_detection_example.png)
 
+![walter_bacon](https://github.com/ombharat6361/Culinary-Cognition/assets/96538649/32022c90-df4f-4516-ad84-d69acd1c7681)
 
-![Alt text](assets/result.png)
 
 ## Table of Contents
 
@@ -49,7 +48,8 @@ To use the trained food detection model, follow these steps:
    For more information on using saved models, visit the [Tensorflow documentation on saving and loading models](https://www.tensorflow.org/tutorials/keras/save_and_load).
 
 ## Results
-![Alt text](assets/result.png)
+This shows the final result I got on the test set after calling `.evaluate()` on the trained model.
+![result](https://github.com/ombharat6361/Culinary-Cognition/assets/96538649/d79bbab1-e6e8-46bb-9571-cf32a40a9193)
 
 ## License
 Complies with the [MIT License](LICENSE)
