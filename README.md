@@ -25,7 +25,7 @@ The model is trained on [Food101](https://www.kaggle.com/datasets/dansbecker/foo
 
 ## Model
 
-The core of this project is Transfer Learing with the EfficientNet architecture, a family of neural network models that provide an excellent trade-off between model size and performance. The pre-trained EfficientNetV2B0 model is fine-tuned on the food detection dataset to adapt to this task. The model was trained for 10 epochs, which provided the best results.
+The core of this project is Transfer Learning with the EfficientNet architecture, a family of neural network models that provide an excellent trade-off between model size and performance. The pre-trained EfficientNetV2B0 model is fine-tuned on the food detection dataset to adapt to this task. The model was trained for 10 epochs, which provided the best results.
 
 ## Usage
 
